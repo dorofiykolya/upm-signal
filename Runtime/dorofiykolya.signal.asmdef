@@ -1,0 +1,14 @@
+{
+    "name": "dorofiykolya.signal",
+    "references": [
+        "dorofiykolya.lifetime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "dorofiykolya.signal",
+  "displayName": "Signal",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "author": "https://github.com/dorofiykolya",
+  "description": "require .NET 4x\n",
+  "keywords": [
+    "signal",
+    "signals",
+    "lifetime"
+  ],
+  "dependencies": {
+    "dorofiykolya.lifetime":"1.0.0"
+  },
+  "category": "Unity"
+}
